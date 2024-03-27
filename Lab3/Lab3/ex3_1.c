@@ -17,5 +17,5 @@ int main() {
 			n = n / i;
 		}
 	}
-	printf("%d", n);
+	printf("%d\n", n);
 }
