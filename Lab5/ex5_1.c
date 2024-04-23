@@ -16,5 +16,5 @@ int main() {
 		x_old = x_new;
 	};
 	printf("The root of the function exp(-x)-x at accuracy 0.000001 is %.6f", x_new);
-	printf("\nThe number of iterations is %d", counter);
+	printf("\nThe number of iterations is %d\n", counter);
 }
