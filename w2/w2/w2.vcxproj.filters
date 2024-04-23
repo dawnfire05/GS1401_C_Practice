@@ -15,22 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ex4_1.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="ex4_2.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="ex4_3.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="ex4_ex1.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="ex4_ex2.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="ex4_2t.c">
+    <ClCompile Include="G:\내 드라이브\$ 大一\4_컴프\hw\ge_source_code\ge_source_code\ch05\fig05_14.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

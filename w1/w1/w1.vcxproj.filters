@@ -15,22 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ex4_1.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="ex4_2.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="ex4_3.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="ex4_ex1.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="ex4_ex2.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="ex4_2t.c">
+    <ClCompile Include="w1.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
