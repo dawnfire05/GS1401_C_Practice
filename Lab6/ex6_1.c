@@ -35,7 +35,8 @@ float calculateCharges(int carnh) {
 			sumHours = (carnh % 24 > 8.0) ? 25 + (carnh % 24 - 8) * 5 : 25;
 		}
 	}
+
 	sumTax = (float)carnh * 0.5; //8시간 미만이면 세금 x
-	printf("sumDays: %f sumHours: %f sumTax: %f\n", sumDays, sumHours, sumTax);
+
 	return sumDays + sumHours + sumTax;
 }
