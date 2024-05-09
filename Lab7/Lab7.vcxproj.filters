@@ -15,10 +15,13 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ex7_1.c">
+    <ClCompile Include="..\ex7_1.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="ex7_2.c">
+    <ClCompile Include="..\ex7_2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="..\ex7_3.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
